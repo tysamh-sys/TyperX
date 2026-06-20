@@ -1,3 +1,10 @@
+<img width="1000" alt="Capture d&#39;écran 2026-06-20 194746" src="https://github.com/user-attachments/assets/dea3357a-2198-4259-9a30-6a4c73aaf71a" />
+<img width="1000" alt="Capture d&#39;écran 2026-06-20 195040" src="https://github.com/user-attachments/assets/5b597441-6062-4aa3-95f3-4c850ed1543b" />
+<img width="1000" alt="Capture d&#39;écran 2026-06-20 195131" src="https://github.com/user-attachments/assets/f3bbfe28-3631-42ea-adf4-797db32387b5" />
+<img width="1000" alt="Capture d&#39;écran 2026-06-20 195150" src="https://github.com/user-attachments/assets/d4b19f93-7fe4-4f73-bc5c-a14046ea5b2a" />
+<img width="1000" alt="Capture d&#39;écran 2026-06-20 195016" src="https://github.com/user-attachments/assets/3c97e106-b6c7-400a-aad8-ca0aecc783e2" />
+
+
 # 🚀 TyperX
 
 Keyron is a typing-training game built with Python and Pygame. It combines gaming and learning to help users improve typing speed, keyboard accuracy, and reaction time through multiple interactive game modes.
